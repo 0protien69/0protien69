@@ -1,5 +1,4 @@
 plutoware|| PW roblox executor
 <!---
-0protien69/0protien69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Plutoware || is a roblox executor used to execute scripts fast and quick enhance your gameplay experince for IOS and windows, with cheats there is a problem, with normal cheats/executors it will make you laggy asf(mostly on low end devices like mobile) and some executors get detected making the users get banned there is only 2 main executors that enusre that your never banned and the script is never detected they are delta and appleware the rest are horrid and just get detected but theres many things that make PW/plutoware stand out,we are not normal executors we ensure that your gameplay is smooth with no jailbreak or issues, we ensure that you can exploit smoothly with less lag and ensure you do not get detected.|||| PW/plutoware > SW/scriptware|||
 --->
